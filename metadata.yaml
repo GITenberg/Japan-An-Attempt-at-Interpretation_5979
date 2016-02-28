@@ -1,0 +1,40 @@
+_repo: Japan-An-Attempt-at-Interpretation_5979
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Hearn, Patrick Lafcadio
+    - Koizumi, Yakumo
+    - Xiaoquan, Bayun
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: Title; Contents; Difficulties; Strangeness and Charm; The Religion of
+  the Home; The Japanese Family; The Communal Cult; Developments of Shinto; Worship
+  and Purification; The Rule of the Dead; The Introduction of Buddhism; The Higher
+  Buddhism; The Social Organization; The Rise of the Military Power; The Religion
+  of Loyalty; The Jesuit Peril; Feudal Integration; The Shinto Revival; Survivals;
+  Modern Restraints; Official Education; Industrial Danger; Reflections; Appendix;
+  Bibliographical Notes; Endnotes.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Civilization'
+- !lcc 'DS'
+tableOfContents: Difficulties -- Strangeness and charm -- The ancient cult -- The
+  religion of the home -- The Japanese family -- The communal cult -- Developments
+  of Shinto -- Worship and purification -- The rule of the dead -- The introduction
+  of Buddhism -- The higher Buddhism -- The social organization -- The rise of the
+  military power -- The religion of loyalty -- The Jesuit peril -- Feudal integration
+  -- The Shinto revival -- Survivals -- Modern restraints -- Official education --
+  Industrial danger -- Reflections.
+title: 'Japan: An Attempt at Interpretation'
+url: http://www.gutenberg.org/ebooks/5979
